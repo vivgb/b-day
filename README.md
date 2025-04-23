@@ -40,6 +40,6 @@ A carta tem formato de cartão interativo, com animações suaves e um **bolo an
 
 ## 📸 Captura de tela
 
-<img src="frent.png" width="500"/>
+<img src="frente.png" width="500"/>
 <img src="mensagem.png" width="500"/>
 
